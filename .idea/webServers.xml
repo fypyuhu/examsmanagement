@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cfb2e53b-e021-4c06-8804-4b085940ca48" name="exam.waleedcheema.com" url="http://exam.waleedcheema.com">
+        <fileTransfer host="ftp.waleedcheema.com" port="21" rootFolder="/exam" password="df9ddf92df9cdf8bdfeadf89dffbdffddfefdfcbdfd9dfce" username="exam@waleedcheema.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

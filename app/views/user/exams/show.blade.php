@@ -1,0 +1,1 @@
+F:\exam\app/views/categories/show.blade.php
